@@ -1,4 +1,4 @@
-//Template Rock Climbing DP. Trick is to use flip array.
+//Template Rock Climbing DP and basics of movements in grid. Trick is to use flip array to avoid MLE.
 import java.io.*;
 public class Main {
 	  static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
